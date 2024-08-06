@@ -1,7 +1,7 @@
-mysql> create database pavithra;
+mysql> create database Akshara;
 Query OK, 1 row affected (0.01 sec)
 
-mysql> use pavithra;
+mysql> use Akshara;
 Database changed
 mysql> create table students(name varchar(30),age int,rollnumber int);
 Query OK, 0 rows affected (0.02 sec)
